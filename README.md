@@ -2,4 +2,4 @@
 
 Creating a 'Hello world' website to test out the Canada.ca theme
 
-https://github.com/wet-boew/GCWeb
+Link to the Hello World page: https://jacquelinejia.github.io/GCWebTest/
